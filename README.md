@@ -1,5 +1,6 @@
----
 # **AI-Powered PDF Summarization & Q&A Web App**
+
+---
 
 ## **1. Project Overview**
 
