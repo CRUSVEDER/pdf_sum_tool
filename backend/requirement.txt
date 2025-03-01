@@ -1,0 +1,11 @@
+flask
+flask-cors
+requests
+PyMuPDF
+transformers
+torch
+pdfminer.six
+pymupdf
+datasets
+accelerate
+scikit-learn

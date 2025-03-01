@@ -1,0 +1,22 @@
+basic requirement:
+    download:
+        vite
+        svelte 
+        ollama app 
+        ollama deepseek-r1:1.b 
+        python
+    
+    create an folder from vite with option as svelte and javascript
+
+    copy the backend fully folder
+
+    copy the src folder from pdf_summarizer
+
+    run all 3 commands-
+
+    for svelte: run npm dev
+    for python: python app.py
+    for ollama: run deepseek-r1:1.5b
+
+   * if u want to train the document add text in data.csv and run the command-
+    python train_model.py
