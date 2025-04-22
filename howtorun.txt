@@ -14,9 +14,9 @@ basic requirement:
 
     run all 3 commands-
 
-    for svelte: run npm dev
+    for svelte: npm run dev
     for python: python app.py
-    for ollama: run deepseek-r1:1.5b
+    for ollama: ollama run deepseek-r1:1.5b  
 
    * if u want to train the document add text in data.csv and run the command-
     python train_model.py
